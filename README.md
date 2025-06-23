@@ -1,24 +1,25 @@
-## Desafio prático back-end Nubank
+# Desafio Prático Backend - Nubank (Simulado)
 
-O desafio prático back-end Nubank consiste em fazer um Cadastro de gerenciamento de Cliente e Contato.
+Este projeto consiste em um sistema de cadastro de clientes e contatos, inspirado em um desafio proposto no YouTube.
 
-### Objetivo do desafio prático:
+## Objetivo
+
 - Cadastro de cliente
 - Cadastro de contatos por cliente
-- Listagem de todos os clientes com contatos
-- Inserção de um cliente e contato
-- Validação (campos obrigatórios)
+- Listagem de todos os clientes com seus contatos
+- Inserção com validações de campos obrigatórios
 
-### As ferramentas utilizadas:
+## Tecnologias
+
 - Java 17
 - Spring Boot 3.5.3
-- Validation
 - Spring JPA
-- PostgreSQL
+- Spring Validation
 - Lombok
+- PostgreSQL
 - Spring Web
-- Spring DevTools
+- DevTools
 
+## Referência
 
-### Referência:
-O desafio foi inspirado por: https://youtu.be/Q2WzZVr8rqg?si=sUNuIrBSG0erAOWv
+Inspirado por: [Desafio Nubank (YouTube)](https://youtu.be/Q2WzZVr8rqg?si=sUNuIrBSG0erAOWv)
